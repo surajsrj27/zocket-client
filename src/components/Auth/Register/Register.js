@@ -55,6 +55,9 @@ const Register = () => {
                             </div>
                             <button type="submit" className="btn btn-submit">Register</button>
                         </form>
+                        <p className="testing">Email Address for testing:</p>
+                        <p className="testing">Email: testingmytask1@gmail.com</p>
+                        <p className="testing">Password: testingmytask@123</p>
                     </section>
                 </div>
                 <div className="col-6 register_banner">
