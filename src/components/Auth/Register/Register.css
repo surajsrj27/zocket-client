@@ -1,0 +1,83 @@
+.register {
+    height: 100vh;
+}
+
+.register_content {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.register_banner {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+.register_banner img {
+    height: 500px;
+    width: 500px;
+}
+
+.flex {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.form {
+    width: 100%;
+}
+
+.flex-column {
+    flex-direction: column;
+}
+
+.form-section {
+    justify-content: flex-start;
+    align-items: flex-start;
+    margin-top: 50px;
+    width: 75%;
+}
+
+.form-section h1 {
+    font-size: 40px;
+    margin: 25px 0;
+    color: #343333;
+    text-transform: capitalize;
+}
+
+input {
+    font-size: 18px;
+    padding: 10px 30px;
+    border-radius: 8px;
+    border: 1px solid #a7a7a7;
+    margin-bottom: 15px;
+    width: 100%;
+    margin: 0 6px 10px 6px;
+}
+
+.row {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.btn {
+    width: 100%;
+    padding: 10px 0px;
+    font-size: 20px;
+    color: #FFFFFF;
+    background-color: #f59e2e;
+    border: none;
+    outline: none;
+    margin-bottom: 15px;
+    border-radius: 8px;
+    margin-top: 10px;
+}
+
+.btn:hover {
+    background-color: #384fe4;;
+    color: #FFFFFF;
+}

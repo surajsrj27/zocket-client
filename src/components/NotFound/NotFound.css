@@ -1,0 +1,20 @@
+.notfound {
+    height: 100vh;
+}
+
+.notfound-content {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.notfound_banner {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+.notfound_banner img {
+    height: 100px;
+    width: 100px;
+}
